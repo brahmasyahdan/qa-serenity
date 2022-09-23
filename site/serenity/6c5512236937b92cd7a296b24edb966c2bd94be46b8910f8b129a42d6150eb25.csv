@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"login","Successfully logged in","SUCCESS","2022-09-23T20:24:26.986+07:00[Asia/Jakarta]","0.0","5.73"
+"remove","Remove items from Cart","SUCCESS","2022-09-23T20:24:33.215+07:00[Asia/Jakarta]","0.0","6.87"
+"search","Sorting product name Z to A","SUCCESS","2022-09-23T20:24:40.318+07:00[Asia/Jakarta]","0.0","6.61"

@@ -1,0 +1,8 @@
+starter/CucumberTestSuite.class
+starter/Pages/CartPage.class
+starter/Pages/InventoryPage.class
+starter/StepDefinitions/RemoveStepDevinition.class
+starter/StepDefinitions/SearchDefinition.class
+starter/StepDefinitions/ContinueStepDefinition.class
+starter/StepDefinitions/LoginStepDefinition.class
+starter/Pages/LoginPage.class
